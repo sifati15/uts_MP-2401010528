@@ -77,3 +77,6 @@ git push
 git add .
 git commit -m "add forgot password feature"
 git push
+git add .
+git commit -m "add dashboard UI"
+git push
