@@ -74,3 +74,6 @@ Update: login screen added
 git add .
 git commit -m "add form validation login"
 git push
+git add .
+git commit -m "add forgot password feature"
+git push
